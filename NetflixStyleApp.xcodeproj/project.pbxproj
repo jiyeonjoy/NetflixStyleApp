@@ -20,6 +20,7 @@
 		277506D529260DF0005DF5E7 /* ContentCollectionViewMainCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277506D429260DF0005DF5E7 /* ContentCollectionViewMainCell.swift */; };
 		277506D729260E12005DF5E7 /* ContentCollectionViewRankCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277506D629260E12005DF5E7 /* ContentCollectionViewRankCell.swift */; };
 		27DE66E6292B0F3F004A88D8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27DE66E5292B0F3F004A88D8 /* ContentView.swift */; };
+		27DE66E8292B1364004A88D8 /* ContentDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27DE66E7292B1364004A88D8 /* ContentDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		277506D429260DF0005DF5E7 /* ContentCollectionViewMainCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewMainCell.swift; sourceTree = "<group>"; };
 		277506D629260E12005DF5E7 /* ContentCollectionViewRankCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewRankCell.swift; sourceTree = "<group>"; };
 		27DE66E5292B0F3F004A88D8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		27DE66E7292B1364004A88D8 /* ContentDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				277506D429260DF0005DF5E7 /* ContentCollectionViewMainCell.swift */,
 				277506D629260E12005DF5E7 /* ContentCollectionViewRankCell.swift */,
 				27DE66E5292B0F3F004A88D8 /* ContentView.swift */,
+				27DE66E7292B1364004A88D8 /* ContentDetailView.swift */,
 			);
 			path = NetflixStyleApp;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				277506D129260DBF005DF5E7 /* ContentCollectionViewHeader.swift in Sources */,
 				277506B4292609D5005DF5E7 /* AppDelegate.swift in Sources */,
 				277506D529260DF0005DF5E7 /* ContentCollectionViewMainCell.swift in Sources */,
+				27DE66E8292B1364004A88D8 /* ContentDetailView.swift in Sources */,
 				277506D329260DDA005DF5E7 /* ContentCollectionViewCell.swift in Sources */,
 				277506D729260E12005DF5E7 /* ContentCollectionViewRankCell.swift in Sources */,
 				27DE66E6292B0F3F004A88D8 /* ContentView.swift in Sources */,
